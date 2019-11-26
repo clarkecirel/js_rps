@@ -51,7 +51,7 @@ function Computer() {
 
 // OUTCOMES
 function resultsTie() {
-  verdict.innerHTML = "We Tied"; // tie
+  verdict.innerHTML = "We Tied.."; // tie
 }
 function resultsWinner() {
   verdict.innerHTML =  "You Win!"; // win
